@@ -1,3 +1,13 @@
+## About this fork
+
+This is a development fork of [freesurfer/surfa](https://github.com/freesurfer/surfa), the Python utilities for medical-image analysis and surface processing. Surfa works with 3D image arrays and triangular meshes while accounting for their world or scanner coordinates. It is useful for research workflows that move between volumetric images and surface representations.
+
+The fork's [upstream PR #86](https://github.com/freesurfer/surfa/pull/86) proposes passing FreeView subtitles as literal arguments. It was open on 17 October 2026 and remains on the linked feature branch.
+
+Start with the [official documentation](https://surfer.nmr.mgh.harvard.edu/docs/surfa) and [installation guide](https://surfer.nmr.mgh.harvard.edu/docs/surfa/guide/installation.html) for package and compiler requirements. [Compare the default branch with upstream](https://github.com/jdotc1/surfa/compare/freesurfer:master...jdotc1:master). The original README below preserves the project scope, documentation status, and development guidance.
+
+---
+
 # Surfa
 
 ![PyPi Version](https://img.shields.io/pypi/v/surfa?color=lightgrey&style=for-the-badge)
